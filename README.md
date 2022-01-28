@@ -37,6 +37,6 @@
  
  <div>
   <a href="https://github.com/caiodutra08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodutra08&hide_rank=true&custom_title=Meus Status&show_icons=true&theme=onedarkpro&include_all_commits=true&count_private=true/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodutra08&layout=compact&langs_count=6&theme=onedarkpro"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodutra08&hide_rank=true&custom_title=Meus Status&show_icons=true&theme=onedark&include_all_commits=true&count_private=true/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodutra08&layout=compact&langs_count=6&theme=onedark"/>
 </div> 
