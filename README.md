@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
-- 🔭 At the moment, I'm a software development trainee.
+- 🔭 At the moment, I'm a software developer trainee.
 - 🌱 Still learning.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com
 - 😄 Pronoums: He/Him.
