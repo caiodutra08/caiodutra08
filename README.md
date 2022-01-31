@@ -1,15 +1,15 @@
-## Opa, prazer me chamo Caio Dutra! 😃
+## Wassup, nice to have you here, I'm Caio Dutra! 😃
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
-- 🔭 Hoje sou estagiário em Desenvolvimento de Software.
-- 🌱 Ainda estou ampliando minha área de conhecimento.
-- 📫 Me chame no email: contato.caiodutra08@gmail.com
-- 😄 Pronomes: Ele/Dele.
-- ⚡ Fato curioso: Gosto muito de macarronada e também de jogos de FPS.
+- 🔭 At the moment, I'm a software development trainee.
+- 🌱 Still learning.
+- 📫 Contact-me at: contato.caiodutra08@gmail.com
+- 😄 Pronoums: He/Him.
+- ⚡ Curious Fact about me: Pasta and FPS games lover.
 
   
-## 🛠 &nbsp;Ferramentas
+## 🛠 &nbsp;Learning about
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -19,7 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
   
- ## 👨🏽‍🦲 &nbsp;Redes Sociais / Contatos
+ ## 👨🏽‍🦲 &nbsp;Socials / Contact
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/caiowvlr" target="_blank">
