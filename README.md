@@ -37,6 +37,5 @@
  
  <div>
   <a href="https://github.com/caiodutra08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodutra08&locale=pt-br&hide_rank=true&custom_title=Meus Status&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiodutra08&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="caiodutra08" />
-##
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodutra08&locale=pt-br&hide_rank=true&custom_title=Meus Status&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiodutra08&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="caiodutra08" />
