@@ -1,12 +1,11 @@
-## Wassup, nice to have you here, I'm Caio Dutra! 😃
+## Wassup, I'm Caio Dutra! 😃
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
 - 🔭 At the moment, I'm a software developer trainee.
 - 🌱 Still learning.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com
-- 😄 Pronoums: He/Him.
-- ⚡ Curious Fact about me: Pasta and FPS games lover.
+- ⚡ Curious Fact about me: I'm love to eat pasta, and to play FPS.
 
   
 ## 🛠 &nbsp;Learning about
