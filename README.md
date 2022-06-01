@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
 - 🔭 At the moment, I'm a software developer trainee.
-- 🌱 Code enthusiastic
-- 📫 Contact-me at: contato.caiodutra08@gmail.com
+- 🌱 Code enthusiastic.
+- 📫 Contact-me at: mailto:contato.caiodutra08@gmail.com.
 - ⚡ Curious Fact about me: I'm love to eat pasta, and to play FPS.
 
   
