@@ -16,8 +16,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-  
+
  ## 👨🏽‍🦲 &nbsp;Socials / Contact
 
 <p align="left" style="background:yellow">
