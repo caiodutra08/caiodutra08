@@ -5,7 +5,6 @@
 - 🔭 At the moment, I'm a software developer trainee.
 - 🌱 Code enthusiastic.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
-- ⚡ Curious Fact about me: I love to eat pasta, and to play FPS.
 
   
 ## 🛠 &nbsp;Work with these 
