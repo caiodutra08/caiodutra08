@@ -23,7 +23,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-05122A?style=flat&logo=hyperledger)
-![XRP Ledger](https://img.shields.io/badge/-XRPL-05122A?style=flat&logo=ledger)
 
  ## 👨🏽‍🦲 &nbsp;Socials / Contact
 
