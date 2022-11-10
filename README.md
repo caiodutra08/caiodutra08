@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
+![Hyperledger](https://img.shields.io/badge/-Hyperledger-05122A?style=flat&logo=hyperledger)
 
  ## 👨🏽‍🦲 &nbsp;Socials / Contact
 
