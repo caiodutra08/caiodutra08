@@ -27,9 +27,6 @@
  ## 👨🏽‍🦲 &nbsp;Socials / Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/caiodutra08" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-caiodutra08-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/caiodutra08" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-caiodutra08-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
