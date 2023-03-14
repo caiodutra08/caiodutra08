@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
-- 🔭 At the moment, I'm a software developer trainee.
+- 🔭 At the moment, I'm a Junior Software Developer.
 - 🌱 Code and blockchain enthusiast.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
 
