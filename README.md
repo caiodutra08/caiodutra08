@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
-- 🔭 At the moment, I'm a Junior Software Developer.
+- Hey! I'm caio, a 19yo brazilian software developer who's been head over heels for web3 since i turned 18. currently diving into web3 and studying non-stop to become the best version of myself.
 - 🌱 Code and blockchain enthusiast.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
 
