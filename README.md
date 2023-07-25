@@ -17,10 +17,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 
-<p align="left">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodutra08&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</p>
-
 ## 🛠 &nbsp;Learning more about
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -28,7 +24,16 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-05122A?style=flat&logo=hyperledger)
 
- ## 👨🏽‍🦲 &nbsp;Socials / Contact
+## 🌍 &nbsp;Activities
+<p align="left">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodutra08&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</p>
+<div align="right">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-alpha-ten.vercel.app/api?theme=dark" alt="Música Atual no Spotify">
+</a>
+</div>
+ ## 👩🏽‍💻 &nbsp; Socials / Contact
 
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/caiodutra08" target="_blank">
