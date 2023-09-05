@@ -7,6 +7,13 @@
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
 
   
+## 🛠 &nbsp;Work with these stacks
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+
 ## 🛠 &nbsp;Know these stacks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,6 +31,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-05122A?style=flat&logo=hyperledger)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 
 ## 🌍 &nbsp;Activities
 <p align="left">
