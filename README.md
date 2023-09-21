@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Java Quarkus](https://img.shields.io/badge/-Java%20Quarkus-05122A?style=flat&logo=quarkus)
 
 ## 🛠 &nbsp;Other stacks
 
