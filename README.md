@@ -7,7 +7,7 @@
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
 
   
-## 🛠 &nbsp;Work with these stacks
+## 💻 &nbsp;Work with these stacks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -21,7 +21,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 
-## 🛠 &nbsp;Learning more about
+## 📔 &nbsp;Learning more about
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
