@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
-- Hey! I'm caio, a 20yo brazilian software developer who's been head over heels for coding since i turned 15. currently diving into fullstack and studying non-stop to become the best version of myself.
+- Hey! I'm caio, a 20yo brazilian software developer who's been head over heels for coding since i turned 15. currently diving into fullstack and studying non-stop to become the best version of myself. Feel free to contact me!
 - 🌱 Code and blockchain enthusiast.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
 
