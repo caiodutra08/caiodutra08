@@ -1,8 +1,8 @@
-## Yo, I'm Caio Dutra! 😃
+## Hey, I'm Caio Dutra! 😃
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiodutra08&color=blue" alt="Profile views" /> </p>
 
-- Hey! I'm caio, a 19yo brazilian software developer who's been head over heels for web3 since i turned 18. currently diving into web3 and studying non-stop to become the best version of myself.
+- Hey! I'm caio, a 20yo brazilian software developer who's been head over heels for web3 since i turned 18. currently diving into web3 and studying non-stop to become the best version of myself.
 - 🌱 Code and blockchain enthusiast.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
 
