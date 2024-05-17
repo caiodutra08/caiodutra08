@@ -5,6 +5,7 @@
 - Hey! I'm caio, a 20yo brazilian software developer who's been head over heels for coding since i turned 15. currently diving into fullstack and studying non-stop to become the best version of myself. Feel free to contact me!
 - 🌱 Code and blockchain enthusiast.
 - 📫 Contact-me at: contato.caiodutra08@gmail.com.
+- Linkedin: https://www.linkedin.com/in/caiobusarellodutra/
 
   
 ## 💻 &nbsp;Work with these stacks
