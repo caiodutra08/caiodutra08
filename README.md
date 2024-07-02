@@ -1,4 +1,4 @@
-<h1 align="center">yo, wsg?</h1>
+<h1 align="center">hey, howdy?</h1>
 
 <h3 align="left">me:</h3>
 
