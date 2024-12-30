@@ -11,11 +11,4 @@
 
 <h3 align="left">socials</h3>
 
-
-<div align="left">
-  <a href="https://linkedin.com/in/caiobusarellodutra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
