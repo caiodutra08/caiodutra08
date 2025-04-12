@@ -3,9 +3,8 @@
 I have a few nicknames:
 - Stack Overflow Surfer: Copy-pasting my way to buggy code since 2022.
 - Object-Oriented Outlaw: Inheritance? Encapsulation? Never heard of ’em.
-- TypeScript Tamer: Wrestling with `any` until my code is strict and my errors are few.
 
-<h3>aaaand these are my bug stacks</h3>
+<h3>aaaand these are my stacks</h3>
 
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
