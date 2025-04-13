@@ -1,10 +1,6 @@
 <h2>hi there</h1>
 
-I have a few nicknames:
-- Stack Overflow Surfer: Copy-pasting my way to buggy code since 2022.
-- Object-Oriented Outlaw: Inheritance? Encapsulation? Never heard of ’em.
-
-<h3>and these are my stacks</h3>
+<h3>these are my stacks</h3>
 
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://18.react.dev/)
 [![NextJS](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org/)
